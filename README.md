@@ -26,7 +26,7 @@ service firebase.storage {
     }
   }
 }
-
+```
 
 # Luego  configurar las imagenes del storage asi 
 
