@@ -32,8 +32,8 @@ service firebase.storage {
 
 ## Crear la carpeta dentro del storage 
 
-![Imagen1](./assets/carpetaDelStorage.png)
+<img src="./assets/carpetaDelStorage.png" alt="captura 1" style= "width:600px">
 
 ## Agregar las imagenes dentro de la carpeta 
 
-![Imagen2](./assets/imagenesDelStorage.png)
+<img src="./assets/imagenesDelStorage.png" alt="captura 1" style= "width:600px">
